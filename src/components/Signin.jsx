@@ -19,7 +19,7 @@ const Signin = () => {
                 <button class="rounded-xl bg-gradient-to-br from-[#6025F5] to-[#FF5555] px-10 py-2 text-base font-medium text-white transition duration-200 hover:shadow-lg hover:shadow-[#6025F5]/50">
                 SubWallet
                 </button>
-            </div>
+            </div>   
         </div>
         </div>
     </div>

@@ -31,20 +31,20 @@ import {
       title: "Packages",
     },
     {
-      id: "Experience",
+      id: "Assests",
       title: "My Assets",
     },
-    {
-      id: "about",
-      title: "DAO",
-    },
-    {
-      id: "work",
-      title: "Contact",
-    },
     // {
-    //   id: "contact",
-    //   title: "Governance",
+    //   id: "about",
+    //   title: "DAO",
+    // },
+     {
+       id: "Footer",
+      title: "Contact",
+     },
+    //  {
+    //    id: "Signin",
+    //    title: "Sign In",
     // },
     // {
     //   id: "",
@@ -69,6 +69,7 @@ import {
       title: "PLatinum",
       icon: creator,
     },
+    
   ];
   
   const technologies = [
